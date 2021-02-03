@@ -126,4 +126,11 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
+
 .pyre/
+
+#my files
+proxy_config.py
+pages.py
+
+
